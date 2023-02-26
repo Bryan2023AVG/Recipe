@@ -1,5 +1,5 @@
 # Recipe
 ## vegatable required
-  1. patato
-  2. tomato
+- patato
+- tomato
 ### fruit required
