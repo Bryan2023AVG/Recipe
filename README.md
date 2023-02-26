@@ -5,3 +5,4 @@
 ### fruit required
 - **apple**
 - Mango
+- papaya
