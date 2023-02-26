@@ -3,9 +3,9 @@
 - patato
 - tomato
 - onion
--
 - **Seamoss**
-### fruit required
+
+## fruit required
 - **apple**
 - Mango
 - papaya
