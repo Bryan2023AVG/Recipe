@@ -2,6 +2,8 @@
 ## vegatable required
 - patato
 - tomato
+- onion
+-
 - **Seamoss**
 ### fruit required
 - **apple**
