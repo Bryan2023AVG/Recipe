@@ -2,7 +2,7 @@
 ## vegatable required
 - patato
 - tomato
- **Seamoss**
+- **Seamoss**
 ### fruit required
 - **apple**
 - Mango
