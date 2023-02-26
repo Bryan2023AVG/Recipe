@@ -3,3 +3,5 @@
 - patato
 - tomato
 ### fruit required
+- **apple**
+- Mango
