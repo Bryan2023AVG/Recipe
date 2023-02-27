@@ -7,5 +7,5 @@
 
 ## fruit required
 - **apple**
-- Mango
+- Mangok
 - papaya
